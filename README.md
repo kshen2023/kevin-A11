@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 docker image build -t shen_kang_coding_assignment11:latest .
 
 # running the docker container
-docker run -dp 7775:3000 --name shen_kang_coding_assignment-11 shen_kang_coding_assignment-11:latest
+docker run -dp 7775:3000 --name shen_kang_coding_assignment11 shen_kang_coding_assignment11:latest
